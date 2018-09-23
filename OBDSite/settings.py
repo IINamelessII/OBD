@@ -25,12 +25,15 @@ SECRET_KEY = 'nbobjlg834hms!*48_@!tupjjjz-dmo&+#x3gw%r_#wx3p==y*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["database-basics.herokuapp.com",
+                 "127.0.0.1"
+                 ]
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'main.apps.MainConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

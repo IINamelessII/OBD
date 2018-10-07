@@ -1,5 +1,7 @@
 # ERP
 
+![Logo](https://itsvit.org/wp-content/uploads/2018/07/erp-sistemy.jpg)
+
 ## Зміст
 1. Що таке ERP - система?
 1. Види та типи ERP - систем

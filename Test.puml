@@ -1,0 +1,16 @@
+@startuml
+start
+
+:Hello world;
+
+
+if (Are you retarted?) then (yes)
+    :Postupi na __VT__;
+else (no)
+    :Ne postupai na __VT__;
+endif
+
+:Big Brother is pogonyae you!;
+
+end
+@enduml

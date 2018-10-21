@@ -27,7 +27,7 @@
                 "sha256:04f2e423f2e60943c02bd2959174b844f7d1bcd19eabb7f8e4282999958021fd",
                 "sha256:e1cc1cd6b658aa4e052f5f2b148bfda08091d7c3558529708342e37e4e33f72c"
             ],
-            "version": "==2.1.1"
+            "version": ">=2.1.2"
         },
         "django-heroku": {
             "hashes": [

@@ -14,7 +14,7 @@ Web application development which is a way to improve the skills of working with
 
 - ***Examples_of_interested_parties.md*** - Documentation with information about the system;
 
-- ***README.md*** - README with instructions of using the system.
+- ***README.md*** - README with instructions about how to use the system.
 
 ## Instructions
 

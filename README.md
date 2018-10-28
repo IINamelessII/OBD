@@ -1,22 +1,21 @@
 # OBD
 
-## Short description 
+## Short description
 
-Web application for "database basics" labs KPI 3rd and 4th semesters
-
+Web application development which is a way to improve the skills of working with projects, as well as the attempt at improving an existing system.
 
 ## Files in repository
 
-- ***res/*** - Directory with project resources, that was used;
+- ***res/*** - Directory with project resources, that were used;
 
-- ***web_stuff/*** - Directory with recources for website on django, that currentrly avaible [here](https://database-basics.herokuapp.com/ "Click");
+- ***web_stuff/*** - Directory with resources for website on Django, that is currently available [here](https://database-basics.herokuapp.com/ "Click");
 
-- ***ERP_systems.md*** - Documentation with information about ERP systems;
+- ***ERP_systems.md*** - Documentation with information about ERP-systems;
 
 - ***Examples_of_interested_parties.md*** - Documentation with information about the system;
 
-- ***README.md*** - readme with instruction to using the system (in next releases).
+- ***README.md*** - README with instructions of using the system.
 
 ## Instructions
 
-*Some text*
+*Later*

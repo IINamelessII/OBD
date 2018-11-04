@@ -1,0 +1,23 @@
+@startuml
+
+!define inc "<<include>>"
+!define ext "<<extend>>"
+
+left to right direction
+
+actor :Студент: as stdt
+
+stdt -d-> (Розклад сесії)
+stdt -d-> (Розклад занять)
+
+usecase (Перегляд) as per1
+usecase (Перегляд) as per2
+
+(Розклад сесії) <.d. per1 : ext
+
+(Розклад занять) <.d. per2 : ext
+per2 <.d. (Отримання повідомлення про відсутність викладача) : inc
+(Розклад занять) <.d. (Зміна): ext
+(Зміна) <.d. (Повідомлення про відсутність викладача) : inc
+
+@enduml

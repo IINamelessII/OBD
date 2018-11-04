@@ -1,0 +1,57 @@
+@startuml
+
+!define inc "<<include>>"
+!define ext "<<extend>>"
+
+left to right direction
+
+actor :Викладач: as tchr
+
+usecase (Розклад сесії) as RS
+usecase (Розклад занять) as RZ
+usecase (Управління профілями\nвикладачів) as UPV
+
+tchr -d-> RS
+tchr -d-> RZ
+tchr -d-> UPV
+
+usecase (Перегляд) as per1
+usecase (Зміна) as zm1
+usecase (Створення) as stv1
+
+usecase (Перегляд) as per2
+usecase (Зміна) as zm2
+
+usecase (Перегляд) as per3
+
+'-----ROZKLAD SESII------
+RS <.d. per1 : ext
+
+RS <.d. zm1 : ext
+zm1 <.d. (Запит на \nперенесення екзамена) : inc
+zm1 <.d. (Запит на проведення \nв іншій аудиторії) : inc
+
+RS <.d. stv1 : ext
+stv1 <.d. (Запит на \nпроведення екзамена) : inc
+
+'-----ROZKLAD ZANYAT------
+RZ .d.> per2 : ext
+
+RZ <.d. zm2 : ext
+zm2 <.d. (Запит на перенесення пари) : inc
+zm2 <.d. (Запит на проведення пари\nв іншій аудиторії) : inc
+zm2 <.d. (Запит на відпрацювання) : inc
+
+'------UPRAVLINNYA PROFILYAMY------
+UPV <.d. (Створення) : ext
+
+UPV <.d. per3 : ext
+
+UPV <.d. (Редагування) : ext
+(Редагування) <.d. (Повідомлення про відсутність) : inc
+
+UPV <.d. (Видалення) : ext
+(Видалення) <.d. (Повідомлення про початок пари) : inc
+
+
+@enduml

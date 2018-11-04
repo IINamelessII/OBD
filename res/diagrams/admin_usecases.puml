@@ -1,0 +1,51 @@
+@startuml
+
+!define inc "<<include>>"
+!define ext "<<extend>>"
+
+left to right direction
+
+actor :Адміністратор: as admn
+
+usecase (Управління \nрозкладом занять) as URZ
+admn -d-> URZ
+
+usecase (Перевірка \nрозкладу на існування) as per
+usecase (Створення \nрозкладу занять) as stv
+usecase (Редагування \nрозкладу занять) as red
+usecase (Огляд \nрозкладу занять) as ogl
+usecase (Видалення \nрозкладу занять) as vyd
+usecase (Надсилання повідомлення \nпро зміни у розкладі) as povid
+
+URZ <.d. stv : ext
+URZ <.d. vyd : ext
+URZ <.d. red : ext
+URZ <.d. ogl : ext
+
+'--PEREVIRKA ROZKLADU
+per <.u. stv : inc
+per <.u. vyd : inc
+per <.u. red : inc
+per <.u. ogl : inc
+
+'--NADSYLANNYA POVIDOM
+povid <.u. stv : inc
+povid <.u. red : inc
+povid <.u. vyd : inc
+
+'--AVTOMATYCHNE GENERUVANNYA
+rectangle <<Автоматичне генерування>> {
+usecase (Пошук вільних аудиторій \nза умовами) as PVA
+    usecase (Оптимізація часу) as och
+    usecase (Оптимізація обладнання) as oob 
+    usecase (Оптимізація за предметом) as ozp
+    
+    PVA <.d. och : inc
+    PVA <.d. oob : inc
+    PVA <.d. ozp : inc
+}
+
+stv <.d. PVA : inc
+red <.d. PVA : inc
+
+@enduml

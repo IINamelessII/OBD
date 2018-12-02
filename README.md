@@ -12,6 +12,8 @@ Web application development which is a way to improve the skills of working with
 
 - ***ERP_systems.md*** - Documentation with information about ERP-systems;
 
+- ***Data_Mining.md*** - Documentation with links to information resources about Data Mining;
+
 - ***Examples_of_interested_parties.md*** - Documentation with information about the system;
 
 - ***README.md*** - README with instructions about how to use the created system.

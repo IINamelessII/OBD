@@ -8,11 +8,13 @@ Web application development which is a way to improve the skills of working with
 
 - ***res/*** - Directory with project resources, that were used;
 
+- ***DM_res/*** - Directory with "Data Mining" resources, that were used;
+
 - ***web_stuff/*** - Directory with resources for website on Django, that is currently available [here](https://database-basics.herokuapp.com/ "Click");
 
-- ***ERP_systems.md*** - Documentation with information about ERP-systems;
+- ***Data_Mining.md*** - Documentation with links to information resources about "Data Mining";
 
-- ***Data_Mining.md*** - Documentation with links to information resources about Data Mining;
+- ***ERP_systems.md*** - Documentation with information about ERP-systems;
 
 - ***Examples_of_interested_parties.md*** - Documentation with information about the system;
 

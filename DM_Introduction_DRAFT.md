@@ -34,7 +34,7 @@
 
 > **Информация** - результат преобразования и анализа данных.
 
-![](//http://sd-company.su/images/article/information_techno/sootnoshenie_ponyatiy_dannye_002.jpg)
+![](http://sd-company.su/images/article/information_techno/sootnoshenie_ponyatiy_dannye_002.jpg)
 
 **Data Science** (или наука о данных) - 
 

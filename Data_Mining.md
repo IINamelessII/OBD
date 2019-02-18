@@ -21,7 +21,7 @@
 
 # Графический анализ 
 1. разновидности майнинга (Андрей)
-2. технический анализ (Олег)
+2. технический анализ (Олег)  ✓
   * https://binguru.net/texnicheskij-analiz-2665
 3. визуальный анализ данных с примерами (Максим)
   * https://books.google.com.ua/books?id=tHEhjlgo5gAC&pg=PA193&lpg=PA193&dq=%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85&source=bl&ots=xaQQ2lHOhV&sig=ACfU3U01WMx_N-O6Q2sijHv_9uBNDbY8yA&hl=ru&sa=X&ved=2ahUKEwiZ2Z2XnsPgAhXxkosKHYi5CqoQ6AEwCXoECAQQAQ#v=onepage&q=%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85&f=false%5C

@@ -29,3 +29,8 @@ Google Trends — мощнейший аналитический инструме
 Cross-origin resource sharing (CORS; с англ. — «совместное использование ресурсов между разными источниками») — технология современных браузеров, которая позволяет предоставить веб-странице доступ к ресурсам другого домена.
 
 Эта библиотека предоставляет слой API для данных трендов Google. Из-за ограничений CORS эта библиотека предназначена для использования в узле.
+
+[Ссылка 1](http://www.2q17.de/tv-debate-fuenfkampf.html)
+[Ссылка 2](http://2q17.de/#/)
+[Ссылка 3](https://medium.com/@dominikus/2q17-how-we-built-a-dataviz-of-google-search-interest-in-the-german-election-27475839566b)
+[Ссылка 4](https://www.analyticsvidhya.com/blog/2017/08/visualizations-with-d3-js/)

@@ -20,7 +20,7 @@
   * https://psyfactor.org/lib/stat3.htm
 
 # Визуальный и текстовый анализ 
-1. [разновидности майнинга (Андрей)  ✔](/TextАnalysis.md)
+1. [Визуальный анализ, вступление (Андрей)  ✔](/TextАnalysis.md)
 2. [технический анализ (Олег)  ✔](/TechAnal.md)
   * https://binguru.net/texnicheskij-analiz-2665
 3. визуальный анализ данных с примерами (Мускат)

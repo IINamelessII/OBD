@@ -1,32 +1,32 @@
-# аналитическая обработка данных
-1. Data mining история, что это
-  * Теория https://habr.com/post/95209/
-2. курьезные истории, что можно делать с его помощью
-  * Дата майнинг 10к порноактеров https://habr.com/post/170497/
-  * Практическая проверка теории шести рукопожатий, интересная история https://habr.com/post/132558/
-3. Методы ДМ (в целом):
-  * http://intellect-tver.ru/?p=165
- 4. Метод главных компонентов (объяснить на картинках), примеры, чего можно достичь
-   Метод позволяет выделить важные компоненты, сделать проекцию многомерного пространство на двумерное
-  * https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82
-  * https://habr.com/post/304214/
- 5. Кластеризация
-  * https://habr.com/post/101338/
-  * https://basegroup.ru/community/articles/datamining
- 6. метод k-средних
-  * Метод и другие https://habr.com/company/iticapital/blog/262155/
- 7. Кореляционный анализ
-  * http://ru.math.wikia.com/wiki/%D0%9A%D0%BE%D1%80%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7
-  * https://psyfactor.org/lib/stat3.htm
+![Logo](https://miro.medium.com/max/1400/1*UtZk5GuFemNQnssKs5wnig.png)
 
-# Визуальный и текстовый анализ 
-1. [Визуальный анализ, вступление (Андрей)  ✔](/TextАnalysis.md)
-2. [технический анализ (Олег)  ✔](/TechAnal.md)
-  * https://binguru.net/texnicheskij-analiz-2665
-3. визуальный анализ данных с примерами (Мускат)
-  * https://books.google.com.ua/books?id=tHEhjlgo5gAC&pg=PA193&lpg=PA193&dq=%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85&source=bl&ots=xaQQ2lHOhV&sig=ACfU3U01WMx_N-O6Q2sijHv_9uBNDbY8yA&hl=ru&sa=X&ved=2ahUKEwiZ2Z2XnsPgAhXxkosKHYi5CqoQ6AEwCXoECAQQAQ#v=onepage&q=%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85&f=false%5C
-4. [инструментарий для визуализации данных и создания инфографики (бесплатно, веб)   (Олег)  ✔](/AnalTools.md)
-5. Google trends с примерами (Мускат)
-  * Сам пакет https://www.npmjs.com/package/google-trends-api
-  * Примеры https://github.com/pat310/google-trends-api/blob/HEAD/examples.js
+Как каждое начинание строится на истории, так и Data Mining начался с одного семинара.
+[История Data Mining и все о нем.](https://github.com/IINamelessII/OBD/blob/master/res/texts/History%20and%20other%20info_DM.md)
 
+![Logo1](https://www.winpure.com/blog/wp-content/uploads/2016/02/data-vs-information.jpg)
+
+Более углубленно о Data Mining и шестеренках, которые заставляют его работать. [Вступление в Data Mining.](https://github.com/IINamelessII/OBD/blob/master/res/texts/DM_Introduction_DRAFT.md)
+
+![Logo2](http://www.shlacia.com/assets/images/services/img/Sh_DataMining_fn-1180x400.jpg)
+
+Простыми словами о техническом анализе. [Технический анализ и все о нем.](https://github.com/IINamelessII/OBD/blob/master/res/texts/TechAnal.md)
+
+![Logo3](https://cryptonet.biz/wp-content/uploads/2018/03/tehnicheskij-analiz-v-trejdinge-kriptovalyut.jpg)
+
+Без лишних слов. [Методы и способы аналитической обработки даных (українською).](https://github.com/IINamelessII/OBD/blob/master/res/texts/Anal_analytics.md)
+
+![Logo4](https://global-fx.trade/wp-content/uploads/2017/10/Analitika-2-8-oktyabrya.jpg)
+
+Начните создавать прямо сейчас. [8 бесплатных инструментов для создания инфографики онлайн.](https://github.com/IINamelessII/OBD/blob/master/res/texts/AnalTools.md)
+
+![Logo5](http://wunder.by/wp-content/uploads/2017/04/analitika10-1024x315.jpg)
+
+Что заставляет информацию быть яркой и пестрой? [Вступление в Visual Mining.](https://github.com/IINamelessII/OBD/blob/master/res/texts/VisualAnalysis%20-%20Intro.md)
+
+![Logo6](https://s.dou.ua/img/announces/v-840_2gF8tIh.png)
+
+Как информационный поток превращается в картинку и многое другое. [Методы визуализации.](https://github.com/IINamelessII/OBD/blob/master/res/texts/Visual%20Mining.md)
+
+![Logo7](https://www.fusioncharts.com/blog/wp-content/uploads/2018/05/Best-Python-Data-Visualization-Libraries-fusioncharts.png)
+
+Снова Google? [Осязание Google Trends.](https://github.com/IINamelessII/OBD/blob/master/res/texts/Google%20Trends.md)

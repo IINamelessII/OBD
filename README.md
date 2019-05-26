@@ -6,17 +6,19 @@ Web application development which is a way to improve the skills of working with
 
 ## Files in repository
 
-- ***res/*** - Directory with project resources, that were used;
+- **ERP-3th-semester/** - Database Basics archive directory for 3rd semester project:
+    
+    * ***ERP-website/*** - web app directory with back-end part. It is a project powered by Django framework.
+    
+    * ***res/*** - directory that contains front-end part of web app and all resources which relate to the topic of ERP-systems. 
+    
+    * ***ERP_systems.md*** - summary report with the result of our ERP-systems research.
 
-- ***DM_res/*** - Directory with "Data Mining" resources, that were used;
+- **res/** - resource directory for Data Mining project. Contains all pictures, presentations and short reports on intermediate topics. 
 
-- ***web_stuff/*** - Directory with resources for website on Django, that is currently available [here](https://database-basics.herokuapp.com/ "Click");
+- **Data_Mining.md** -
 
-- ***Data_Mining.md*** - Documentation with links to information resources about "Data Mining";
-
-- ***ERP_systems.md*** - Documentation with information about ERP-systems;
-
-- ***Examples_of_interested_parties.md*** - Documentation with information about the system;
+- **Data_Mining.pptx** - 
 
 - ***README.md*** - README with instructions about how to use the created system.
 

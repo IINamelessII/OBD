@@ -27,7 +27,3 @@ Data Mining and related scientific fields, types of Mining and their description
 - ***Data_Mining.md*** - summary report of Data Mining topic research.
 
 - ***Data_Mining.pptx*** - general presentation.
-
-## Instructions
-
-*Later (never)*

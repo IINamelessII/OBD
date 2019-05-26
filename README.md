@@ -13,11 +13,11 @@ In this study, we have analyzed the methods of Data Mining with vizualization, p
 
 - ***ERP-3th-semester/*** - Database Basics archive directory for 3rd semester project:
     
-    * **ERP-website/** - web app directory with back-end part. It is a project powered by Django framework.
+        **ERP-website/** | web app directory with back-end part. It is a project powered by Django framework.
     
-    * **res/** - directory that contains front-end part of web app and all resources which relate to the topic of ERP-systems. 
+        **res/** | directory that contains front-end part of web app and all resources which relate to the topic of ERP-systems. 
     
-    * **ERP_systems.md** - summary report with the result of our ERP-systems research.
+        **ERP_systems.md** | summary report with the result of our ERP-systems research.
 
 - ***res/*** - resource directory for Data Mining project. Contains all **pictures**, **presentations** and **short reports** on intermediate topics. 
 
